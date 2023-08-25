@@ -1,4 +1,4 @@
-#Created Simple Storage Service Bucket (Azubi-Project)
+*Created Simple Storage Service Bucket (Azubi-Project)*
 Enabled features for storing terraform files and states
 * Access Control List (ACL) set to private
 * Set ObjectOwnership
